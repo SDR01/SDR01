@@ -1,7 +1,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Tovari+Sans+Bold&amp;color=22FFC1&amp;size=18&amp;lines=Hello!+I'm+Sai+Datta+Reddy!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
 
-- Student at Masai School
+- Aspiring Java Backend Developer,
+passionate about engaging and
+developing Web pages, enabling me to
+utilize Java, HTML, CSS, and Javascript
+skills and reflect my attributes.
 
 
 <!---
