@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDR01&layout=compact&theme=algolia" align="left" alt="SDR01" height="160" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDR01&theme=tokyonight" align="center" alt="SDR01" height="160" >
 <img src="https://github-readme-stats.vercel.app/api?username=SDR01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="left"alt="SDR01" height="160">
-<img src="https://github-profile-trophy.vercel.app/?username=SDR01&theme=monokai&row=1&column=4" align="center" alt="SDR01" height="130">
+<img src="https://github-profile-trophy.vercel.app/?username=SDR01&theme=monokai&row=1&column=4" align="center" alt="SDR01" height="90">
 <img src="https://activity-graph.herokuapp.com/graph?username=SDR01&theme=xcode"  height="500">
 
 
