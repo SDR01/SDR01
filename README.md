@@ -1,11 +1,8 @@
-- 👋 Hi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Tovari+Sans+Bold&amp;color=22FFC1&amp;size=18&amp;lines=Hey!+It's+Sai+Datta+Reddy!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Tovari+Sans+Bold&amp;color=22FFC1&amp;size=18&amp;lines=Hello!+I'm+Sai+Datta+Reddy!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Student at Masai School
+
 
 <!---
 SDR01/SDR01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,21 +22,21 @@ You can click the Preview link to take a look at your changes.
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img  alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDR01&layout=compact&theme=algolia">
+
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h2>Stats</h2>
+<h2>GitHub Stats</h2>
 
 
 
 
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SDR01&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDR01&layout=compact&theme=algolia" align="center" alt="SDR01" height="139">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SDR01&theme=tokyonight" align="center" alt="SDR01" height="139">
+<img src="https://github-readme-stats.vercel.app/api?username=SDR01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="center" alt="SDR01" height="139">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDR01&theme=xcode&hide_langs_below=1"> -->
 <img src="https://activity-graph.herokuapp.com/graph?username=SDR01&theme=xcode">
-<img src="https://github-readme-stats.vercel.app/api?username=SDR01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://github-profile-trophy.vercel.app/?username=SDR01&theme=monokai&row=1&column=4">
+
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=SDR01&theme=monokai&row=1&column=4"> -->
 
