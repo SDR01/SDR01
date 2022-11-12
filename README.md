@@ -12,7 +12,7 @@
 
 ---
 
-## An Aspiring Java Backend Developer!
+## An Aspiring Java Backend Developer! who loves to design, develop, and manage Java-based applications using Java, MySQL, Hibernate and Spring Boot.
 - 🌱 I’m currently Learning Java at Masai School.
 - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creative websites.
