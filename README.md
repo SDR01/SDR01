@@ -10,7 +10,7 @@
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/saireddy1455//" />
 </a> -->
 
----
+<!-- --- -->
 
 <!-- ## An Aspiring Java Backend Developer! who loves to design, develop, and manage Java-based applications using Java, MySQL, Hibernate and Spring Boot.
 - 🌱 I’m currently Learning Java at Masai School.
@@ -20,7 +20,7 @@
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em> -->
 
----
+<!-- --- -->
 
 
  
@@ -33,7 +33,7 @@
 <!--     <a href="https://github.com/SDR01?tab=followers">
         <img src="https://img.shields.io/github/followers/SDR01?label=Followers&style=social" alt="followers-count">
     </a> -->
-<!-- </p> --> -->
+<!-- </p> --> 
  
 
 
@@ -74,6 +74,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SDR01&hide=smalltalk&theme=algolia&layout=compact" alt="SDR01" />
 </p> -->
 
----
+<!-- --- -->
 
  
