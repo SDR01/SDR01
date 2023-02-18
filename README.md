@@ -26,19 +26,19 @@
  
 <!----------------------------------- Profile View Section ------------------------------------>
 
-<p align="left">
+<!-- <p align="left">
     <a href="https://github.com/SDR01">
         <img src="https://komarev.com/ghpvc/?username=SDR01&label=Profile%20views&color=0e75b6&style=flat" alt="SDR01" />
     </a>
 <!--     <a href="https://github.com/SDR01?tab=followers">
         <img src="https://img.shields.io/github/followers/SDR01?label=Followers&style=social" alt="followers-count">
     </a> -->
-</p>
+</p> -->
  
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
-
+<!-- 
 <h2><i>Tech Stack</i></h2>
 
 <p>
@@ -72,7 +72,7 @@
   </a>
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SDR01&hide=smalltalk&theme=algolia&layout=compact" alt="SDR01" />
-</p>
+</p> -->
 
 ---
 
