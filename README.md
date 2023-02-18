@@ -1,4 +1,4 @@
- ### Hi there, I'm Sai Datta Reddy 👋  
+<!--  ### Hi there, I'm Sai Datta Reddy 👋   -->
 
 <!-- <a href="https://sdr01.github.io/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://sdr01.github.io/" />
