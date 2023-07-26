@@ -1,6 +1,6 @@
-<!--  ### Hi there, I'm Sai Datta Reddy 👋   -->
+### Hi there, I'm Sai Datta Reddy 👋 
 
-<!-- <a href="https://sdr01.github.io/">
+<a href="https://sdr01.github.io/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://sdr01.github.io/" />
 </a>
 <a title="saidattareddy007@gmail.com" href="mailto:saidattareddy007@gmail.com">
@@ -8,37 +8,32 @@
 </a>
 <a href="https://www.linkedin.com/in/saireddy1455/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/saireddy1455//" />
-</a> -->
+</a>
 
-<!-- --- -->
 
-<!-- ## An Aspiring Java Backend Developer! who loves to design, develop, and manage Java-based applications using Java, MySQL, Hibernate and Spring Boot.
-- 🌱 I’m currently Learning Java at Masai School.
+## A Java Backend Developer! who loves to design, develop, and manage Java-based applications using Java, MySQL, Hibernate and Spring Boot.
 - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creative websites.
 - 💬 Ask me about Javascript, HTML, CSS, Java, Spring, SQL, Git
  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em> -->
-
-<!-- --- -->
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
  
 <!----------------------------------- Profile View Section ------------------------------------>
 
-<!-- <p align="left">
+<p align="left">
     <a href="https://github.com/SDR01">
         <img src="https://komarev.com/ghpvc/?username=SDR01&label=Profile%20views&color=0e75b6&style=flat" alt="SDR01" />
     </a>
 <!--     <a href="https://github.com/SDR01?tab=followers">
         <img src="https://img.shields.io/github/followers/SDR01?label=Followers&style=social" alt="followers-count">
     </a> -->
-<!-- </p> --> 
+</p>
  
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
-<!-- 
+
 <h2><i>Tech Stack</i></h2>
 
 <p>
@@ -72,7 +67,7 @@
   </a>
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SDR01&hide=smalltalk&theme=algolia&layout=compact" alt="SDR01" />
-</p> -->
+</p>
 
 <!-- --- -->
 
